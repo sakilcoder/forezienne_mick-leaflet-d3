@@ -28,6 +28,7 @@ var baseLayers = {
     'Google': googleTerrain,
     'Street': Esri_WorldStreetMap,
 };
+let overlays ={};
 
 let comFr = { "type": "FeatureCollection" };
 
@@ -53,35 +54,49 @@ fetchText(csvUrl).then(text => {
         onEachFeature: onEachComFr,
     });
 
+
     comFr.addTo(map);
     aoiLayer.addTo(map);
 
+    overlays['Outline'] = aoiLayer;
+    overlays['Carte commerciale scierie France'] = comFr;
+    var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
+
 
 });
-
-
-var layerControl = L.control.layers(baseLayers).addTo(map);
 
 L.easyButton('fa-home fa-lg', function () {
     map.fitBounds(aoiLayer.getBounds());
 }).addTo(map);
 
-var legend = L.control({ position: 'bottomright' });
+// let getLegendString = function(){
+//     let labels = [];
+//     str = '<h4 align="center">Carte commerciale scierie France</h4>';
+//     for (var i = 0; i < legendValue.length; i++) {
+//         labels.push(
+//             '<i style="background:' + getFillColor(legendValue[i]) + '"></i> ' + legendValue[i]);
+//     }
+//     str += labels.join('<br>');
+//     return str;
+// }
 
-legend.onAdd = function (map) {
+var legend = L.control({position: 'bottomright'});
 
-    var div = L.DomUtil.create('div', 'info legend');
-    var labels = [];
-    for (var i = 0; i < legendValue.length; i++) {
+	legend.onAdd = function (map) {
 
-        let fcol = getFillColor(legendValue[i]); 
+		var div = L.DomUtil.create('div', 'info legend');
 
-        labels.push(
-            '<i style="background:' + fcol + '"></i> ');
-    }
+		var labels = [];
 
-    div.innerHTML = labels.join('<br>');
-    return div;
-};
+		for (var i = 0; i < legendValue.length; i++) {
 
-legend.addTo(map);
+			labels.push(
+				'<i style="background:' + getFillColor(legendValue[i]) + '"></i> ' + legendValue[i]);
+		}
+
+		div.innerHTML = labels.join('<br>');
+		return div;
+	};
+
+	legend.addTo(map);
+

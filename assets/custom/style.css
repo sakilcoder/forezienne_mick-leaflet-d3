@@ -18,6 +18,7 @@ body {
     margin: 5px;
     /* background-color: #fff; */
 }
+
 /* #info {
     position: absolute;
     right: 0;
@@ -36,6 +37,7 @@ body {
 .btn-home {
     z-index: 50;
 }
+
 .popupCustom .leaflet-popup-content-wrapper {
     background: #2A3E56;
     color: #fff;
@@ -43,13 +45,16 @@ body {
     line-height: 24px;
     border-radius: 0px;
 }
+
 .popupCustom .leaflet-popup-content-wrapper a {
     color: #3A3845;
 }
+
 .popupCustom .leaflet-popup-tip-container {
     width: 125px;
     height: 15px;
 }
+
 .popupCustom .leaflet-popup-tip {
     background: transparent;
     border: none;
@@ -58,22 +63,23 @@ body {
 
 .leaflet-bar.disabled,
 .leaflet-bar button.disabled {
-  opacity: 0;
-  border: none;
+    opacity: 0;
+    border: none;
 }
 
 .g-icon {
-    width: 20px; 
+    width: 20px;
     height: 41px;
 }
 
 .g-icon .g-icon-i {
-    color:rgb(233, 233, 233);
-    font-size:18px;
+    color: rgb(233, 233, 233);
+    font-size: 18px;
     top: 7px;
     left: 3px;
     position: absolute;
 }
+
 .g-icon .g-icon-i-l {
     color: rgb(233, 233, 233);
     top: 18%;
@@ -81,7 +87,8 @@ body {
     position: absolute;
     text-align: center;
 }
-.g-circle{
+
+.g-circle {
     width: 16px;
     height: 16px;
     background: rgba(255, 255, 255, .9);
@@ -90,25 +97,44 @@ body {
     /* align-items: center; */
     /* justify-content: center; */
 }
-.spacer{
-	height:20px;
-	clear:both;
-	width:100%;
+
+.spacer {
+    height: 20px;
+    clear: both;
+    width: 100%;
 }
+
+.legend {
+    text-align: left;
+    line-height: 18px;
+    color: rgb(62, 62, 62);
+}
+
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 1;
+}
+
 
 /*Wraperclass for the divicon*/
 /*Wraperclass for the divicon -----------------------------------------------------------*/
 .map-label {
     position: absolute;
-    bottom: 0;left: -50%;
+    bottom: 0;
+    left: -50%;
     display: flex;
     flex-direction: column;
     text-align: center;
-  }
-  /*Wrap the content of the divicon (text) in this class*/
-  .map-label-content {
+}
+
+/*Wrap the content of the divicon (text) in this class*/
+.map-label-content {
     order: 1;
-    position: relative; left: -50%;
+    position: relative;
+    left: -50%;
     background-color: #fff;
     border-radius: 5px;
     border-width: 2px;
@@ -116,33 +142,36 @@ body {
     border-color: #444;
     padding: 3px;
     white-space: nowrap;
-  }
-  /*Add this arrow*/
-  .map-label-arrow {
+}
+
+/*Add this arrow*/
+.map-label-arrow {
     order: 2;
-    width: 0px; height: 0px; left: 50%;
+    width: 0px;
+    height: 0px;
+    left: 50%;
     border-style: solid;
     border-color: #444 transparent transparent transparent;
-    border-width: 10px 6px 0 6px; /*[first number is height, second/fourth are rigth/left width]*/
+    border-width: 10px 6px 0 6px;
+    /*[first number is height, second/fourth are rigth/left width]*/
     margin-left: -6px;
-  }
-  
-  /*Instance classes*/
-  .map-label.inactive {
+}
+
+/*Instance classes*/
+.map-label.inactive {
     opacity: 0.5;
-  }
-  
-  .map-label.redborder > .map-label-content {
+}
+
+.map-label.redborder>.map-label-content {
     border-color: #e00;
-  }
-  .map-label.redborder > .map-label-arrow {
+}
+
+.map-label.redborder>.map-label-arrow {
     border-top-color: #e00;
-  }
-  
-  .map-label.redbackground > .map-label-content {
+}
+
+.map-label.redbackground>.map-label-content {
     white-space: default;
     color: #fff;
     background-color: #e00;
-  }
-  
-  
+}
