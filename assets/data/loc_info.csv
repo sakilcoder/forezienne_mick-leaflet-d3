@@ -1,0 +1,101 @@
+﻿name_1,name_2,cca_2,type,type_2,com_type,id
+Alsace,Bas-Rhin,67,2,4,Cédric PECHEUR,1
+Alsace,Haut-Rhin,68,2,4,Cédric PECHEUR,2
+Ble-de-France,Hauts-de-Seine,92,1,3,Benoît CURY,3
+Ale-de-France,Paris,75,1,3,Benoît CURY,4
+Aquitaine,Dordogne,24,3,10,Romuald NEDAUD,5
+Aquitaine,Gironde,33,3,10,Romuald NEDAUD,6
+Aquitaine,Landes,40,3,11,Sebastien MOLES,7
+Aquitaine,Lot-et-Garonne,47,3,11,Sebastien MOLES,8
+Aquitaine,Pyrinaes-Atlantiques,64,3,11,Sebastien MOLES,9
+Cle-de-France,Val-d'Oise,95,1,3,Benoît CURY,10
+Auvergne,Allier,3,2,6,Brice SAINT REQUIER,11
+Ble-de-France,Val-de-Marne,94,1,3,Benoît CURY,12
+Auvergne,Cantal,15,3,12,Damien KRIF,13
+Cle-de-France,Yvelines,78,1,2,Thierry BOULANGER,14
+Basse-Normandie,Calvados,14,1,1,Bruno CHARLES,15
+Basse-Normandie,Manche,50,1,1,Bruno CHARLES,16
+Auvergne,Haute-Loire,43,3,9,Antoine DA COSTA,17
+Bourgogne,Niuvre,58,2,6,Brice SAINT REQUIER,18
+Auvergne,Puy-de-D,63,3,9,Antoine DA COSTA,19
+Cle-de-France,Essonne,91,1,3,Benoît CURY,20
+Ale-de-France,Seine-et-Marne,77,1,3,Benoît CURY,21
+Ale-de-France,Seine-Saint-Denis,93,1,3,Benoît CURY,22
+Basse-Normandie,Orne,61,1,1,Bruno CHARLES,23
+Bourgogne,Cote-d'Or,21,2,5,Sébastien BOSSU,24
+Bourgogne,Saune-et-Loire,71,2,7,Jérôme GOTHON,25
+Bourgogne,Yonne,89,2,6,Brice SAINT REQUIER,26
+Bretagne,Crtes-d'Armor,22,1,1,Bruno CHARLES,27
+Bretagne,Finistnre,29,1,1,Bruno CHARLES,28
+Bretagne,Ille-et-Vilaine,35,1,1,Bruno CHARLES,29
+Bretagne,Morbihan,56,1,2,Thierry BOULANGER,30
+Centre,Cher,18,2,6,Brice SAINT REQUIER,31
+Centre,Indre-et-Loire,37,1,2,Thierry BOULANGER,32
+Centre,Eure-et-Loir,28,1,2,Thierry BOULANGER,33
+Centre,Indre,36,2,6,Brice SAINT REQUIER,34
+Champagne-Ardenne,Aube,10,1,3,Benoît CURY,35
+Centre,Loir-et-Cher,41,1,2,Thierry BOULANGER,36
+Languedoc-Roussillon,Lozgre,48,3,12,Damien KRIF,37
+Languedoc-Roussillon,Pyrgnees-Orientales,66,3,12,Damien KRIF,38
+Centre,Loiret,45,2,6,Brice SAINT REQUIER,39
+Champagne-Ardenne,Ardennes,8,1,3,Benoît CURY,40
+Champagne-Ardenne,Haute-Marne,52,2,4,Cédric PECHEUR,41
+Champagne-Ardenne,Marne,51,1,3,Benoît CURY,42
+Franche-Comtd,Doubs,25,2,5,Sébastien BOSSU,43
+Franche-Comtd,Haute-SaCne,70,2,5,Sébastien BOSSU,44
+Franche-Comtd,Jura,39,2,5,Sébastien BOSSU,45
+Franche-Comtd,Territoire de Belfort,90,2,5,Sébastien BOSSU,46
+Haute-Normandie,Eure,27,1,1,Bruno CHARLES,47
+Haute-Normandie,Seine-Maritime,76,1,1,Bruno CHARLES,48
+Languedoc-Roussillon,Aude,11,3,12,Damien KRIF,49
+Languedoc-Roussillon,Gard,30,3,12,Damien KRIF,50
+Languedoc-Roussillon,Harault,34,3,12,Damien KRIF,51
+Limousin,Corruze,19,3,9,Antoine DA COSTA,52
+Limousin,Creuse,23,3,9,Antoine DA COSTA,53
+Limousin,Haute-Vienne,87,3,10,Romuald NEDAUD,54
+Lorraine,Meurthe-et-Moselle,54,2,4,Cédric PECHEUR,55
+Lorraine,Meuse,55,1,3,Benoît CURY,56
+Lorraine,Moselle,57,2,4,Cédric PECHEUR,57
+Lorraine,Vosges,88,2,4,Cédric PECHEUR,58
+Midi-Pyr,Ariige,9,3,12,Damien KRIF,59
+Midi-Pyr,Aveyron,12,3,12,Damien KRIF,60
+Midi-Pyr,Gers,32,3,11,Sebastien MOLES,61
+Midi-Pyr,Haute-Garonne,31,3,12,Damien KRIF,62
+Midi-Pyrrnnes,Hautes-Pyrnnses,65,3,11,Sebastien MOLES,63
+Midi-Pyrynnes,Lot,46,3,12,Damien KRIF,64
+Midi-Pyrynnes,Tarn-et-Garonne,82,3,12,Damien KRIF,65
+Midi-PyrGnres,Tarn,81,3,12,Damien KRIF,66
+Nord-Pas-de-Calais,Nord,59,1,3,Benoît CURY,67
+Nord-Pas-de-Calais,Pas-de-Calais,62,1,3,Benoît CURY,68
+Pays de la Loire,Loire-Atlantique,44,1,2,Thierry BOULANGER,69
+Pays de la Loire,Maine-et-Loire,49,1,2,Thierry BOULANGER,70
+Pays de la Loire,Mayenne,53,1,1,Bruno CHARLES,71
+Pays de la Loire,Sarthe,72,1,2,Thierry BOULANGER,72
+Pays de la Loire,Vend e,85,1,2,Thierry BOULANGER,73
+Picardie,Aisne,2,1,3,Benoît CURY,74
+Picardie,Oise,60,1,3,Benoît CURY,75
+Picardie,Somme,80,1,3,Benoît CURY,76
+Poitou-Charentes,Charente-Maritime,17,1,2,Thierry BOULANGER,77
+Poitou-Charentes,Charente,16,3,10,Romuald NEDAUD,78
+Poitou-Charentes,Deux-S-vres,79,1,2,Thierry BOULANGER,79
+Poitou-Charentes,Vienne,86,1,2,Thierry BOULANGER,80
+Provence-Alpes-C,Alpes-de-Haute-Provence,4,4,8,Nicolas OTIN,81
+Provence-Alpes-Crte d'Azur,Alpes-Maritimes,6,4,8,Nicolas OTIN,82
+Provence-Alpes-Crte d'Azur,Bouches-du-Rhsne,13,4,8,Nicolas OTIN,83
+Provence-Alpes-C,Hautes-Alpes,5,4,8,Nicolas OTIN,84
+Provence-Alpes-C,Var,83,4,8,Nicolas OTIN,85
+Provence-Alpes-C,Vaucluse,84,4,8,Nicolas OTIN,86
+Rh,Ain,1,2,7,Jérôme GOTHON,87
+Rh,Ardnche,7,4,8,Nicolas OTIN,88
+Rh,Dr,26,4,8,Nicolas OTIN,89
+Rh,Haute-Savoie,74,4,8,Nicolas OTIN,90
+Rh,Is,38,4,8,Nicolas OTIN,91
+Rh,Loire,42,2,7,Jérôme GOTHON,92
+Rh,Rh,69,2,7,Jérôme GOTHON,93
+Rh,Savoie,73,4,8,Nicolas OTIN,94
+Poitou-Charentes,Charente,16,1,2,Thierry BOULANGER,95
+Poitou-Charentes,Charente-Maritime,17,3,10,Romuald NEDAUD,96
+Rh,Loire,42,4,8,Nicolas OTIN,97
+Aquitaine,Gironde,33,3,11,Sebastien MOLES,98
+Midi-Pyr,Haute-Garonne,31,3,11,Sebastien MOLES,99
+Midi-Pyr,Ariige,9,3,11,Sebastien MOLES,100
