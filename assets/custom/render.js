@@ -44,14 +44,14 @@ function onEachComFr(feature, layer) {
         popup.setLatLng(e.latlng).openOn(map);
     });
 
-    // layer.on('mouseover', function (e) {
-    //     var popup = e.target.getPopup();
-    //     popup.setLatLng(e.latlng).openOn(map);
-    // });
+    layer.on('mouseover', function (e) {
+        var popup = e.target.getPopup();
+        popup.setLatLng(e.latlng).openOn(map);
+    });
 
-    // layer.on('mouseout', function (e) {
-    //     e.target.closePopup();
-    // });
+    layer.on('mouseout', function (e) {
+        e.target.closePopup();
+    });
 }
 
 
