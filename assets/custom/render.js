@@ -23,7 +23,8 @@ function onEachComFr(feature, layer) {
 
     var popup = L.popup();
     let str_popup = '';
-    str_popup += '<h5 class="text-center" style="font-weight: bold">'+ feature.properties.com_type +'</h5>';
+    str_popup += '<span class="text-center"><b>'+ feature.properties.com_type +'</b> '+ feature.properties.value +'</span>';
+    str_popup += '<p>'+ feature.properties.com_type_no +'</p>';
     str_popup += '<table style="width: 100%">';
     str_popup += '<tr><td class="text-center">' + feature.properties.cca_2 + ', ' + feature.properties.name_2 + '</td></tr>';
     str_popup += '<tr><td class="text-center"></td></tr>';
@@ -38,14 +39,19 @@ function onEachComFr(feature, layer) {
     //     mouseout: resetHighlight
     // });
 
-    layer.on('mouseover', function (e) {
+    layer.on('click', function (e) {
         var popup = e.target.getPopup();
         popup.setLatLng(e.latlng).openOn(map);
     });
 
-    layer.on('mouseout', function (e) {
-        e.target.closePopup();
-    });
+    // layer.on('mouseover', function (e) {
+    //     var popup = e.target.getPopup();
+    //     popup.setLatLng(e.latlng).openOn(map);
+    // });
+
+    // layer.on('mouseout', function (e) {
+    //     e.target.closePopup();
+    // });
 }
 
 

@@ -1,101 +1,153 @@
-ï»¿name_1,name_2,cca_2,type,type_2,com_type,id
-Alsace,Bas-Rhin,67,2,4,CÃ©dric PECHEUR,1
-Alsace,Haut-Rhin,68,2,4,CÃ©dric PECHEUR,2
-Ble-de-France,Hauts-de-Seine,92,1,3,BenoÃ®t CURY,3
-Ale-de-France,Paris,75,1,3,BenoÃ®t CURY,4
-Aquitaine,Dordogne,24,3,10,Romuald NEDAUD,5
-Aquitaine,Gironde,33,3,10,Romuald NEDAUD,6
-Aquitaine,Landes,40,3,11,Sebastien MOLES,7
-Aquitaine,Lot-et-Garonne,47,3,11,Sebastien MOLES,8
-Aquitaine,Pyrinaes-Atlantiques,64,3,11,Sebastien MOLES,9
-Cle-de-France,Val-d'Oise,95,1,3,BenoÃ®t CURY,10
-Auvergne,Allier,3,2,6,Brice SAINT REQUIER,11
-Ble-de-France,Val-de-Marne,94,1,3,BenoÃ®t CURY,12
-Auvergne,Cantal,15,3,12,Damien KRIF,13
-Cle-de-France,Yvelines,78,1,2,Thierry BOULANGER,14
-Basse-Normandie,Calvados,14,1,1,Bruno CHARLES,15
-Basse-Normandie,Manche,50,1,1,Bruno CHARLES,16
-Auvergne,Haute-Loire,43,3,9,Antoine DA COSTA,17
-Bourgogne,Niuvre,58,2,6,Brice SAINT REQUIER,18
-Auvergne,Puy-de-D,63,3,9,Antoine DA COSTA,19
-Cle-de-France,Essonne,91,1,3,BenoÃ®t CURY,20
-Ale-de-France,Seine-et-Marne,77,1,3,BenoÃ®t CURY,21
-Ale-de-France,Seine-Saint-Denis,93,1,3,BenoÃ®t CURY,22
-Basse-Normandie,Orne,61,1,1,Bruno CHARLES,23
-Bourgogne,Cote-d'Or,21,2,5,SÃ©bastien BOSSU,24
-Bourgogne,Saune-et-Loire,71,2,7,JÃ©rÃ´me GOTHON,25
-Bourgogne,Yonne,89,2,6,Brice SAINT REQUIER,26
-Bretagne,Crtes-d'Armor,22,1,1,Bruno CHARLES,27
-Bretagne,Finistnre,29,1,1,Bruno CHARLES,28
-Bretagne,Ille-et-Vilaine,35,1,1,Bruno CHARLES,29
-Bretagne,Morbihan,56,1,2,Thierry BOULANGER,30
-Centre,Cher,18,2,6,Brice SAINT REQUIER,31
-Centre,Indre-et-Loire,37,1,2,Thierry BOULANGER,32
-Centre,Eure-et-Loir,28,1,2,Thierry BOULANGER,33
-Centre,Indre,36,2,6,Brice SAINT REQUIER,34
-Champagne-Ardenne,Aube,10,1,3,BenoÃ®t CURY,35
-Centre,Loir-et-Cher,41,1,2,Thierry BOULANGER,36
-Languedoc-Roussillon,Lozgre,48,3,12,Damien KRIF,37
-Languedoc-Roussillon,Pyrgnees-Orientales,66,3,12,Damien KRIF,38
-Centre,Loiret,45,2,6,Brice SAINT REQUIER,39
-Champagne-Ardenne,Ardennes,8,1,3,BenoÃ®t CURY,40
-Champagne-Ardenne,Haute-Marne,52,2,4,CÃ©dric PECHEUR,41
-Champagne-Ardenne,Marne,51,1,3,BenoÃ®t CURY,42
-Franche-Comtd,Doubs,25,2,5,SÃ©bastien BOSSU,43
-Franche-Comtd,Haute-SaCne,70,2,5,SÃ©bastien BOSSU,44
-Franche-Comtd,Jura,39,2,5,SÃ©bastien BOSSU,45
-Franche-Comtd,Territoire de Belfort,90,2,5,SÃ©bastien BOSSU,46
-Haute-Normandie,Eure,27,1,1,Bruno CHARLES,47
-Haute-Normandie,Seine-Maritime,76,1,1,Bruno CHARLES,48
-Languedoc-Roussillon,Aude,11,3,12,Damien KRIF,49
-Languedoc-Roussillon,Gard,30,3,12,Damien KRIF,50
-Languedoc-Roussillon,Harault,34,3,12,Damien KRIF,51
-Limousin,Corruze,19,3,9,Antoine DA COSTA,52
-Limousin,Creuse,23,3,9,Antoine DA COSTA,53
-Limousin,Haute-Vienne,87,3,10,Romuald NEDAUD,54
-Lorraine,Meurthe-et-Moselle,54,2,4,CÃ©dric PECHEUR,55
-Lorraine,Meuse,55,1,3,BenoÃ®t CURY,56
-Lorraine,Moselle,57,2,4,CÃ©dric PECHEUR,57
-Lorraine,Vosges,88,2,4,CÃ©dric PECHEUR,58
-Midi-Pyr,Ariige,9,3,12,Damien KRIF,59
-Midi-Pyr,Aveyron,12,3,12,Damien KRIF,60
-Midi-Pyr,Gers,32,3,11,Sebastien MOLES,61
-Midi-Pyr,Haute-Garonne,31,3,12,Damien KRIF,62
-Midi-Pyrrnnes,Hautes-Pyrnnses,65,3,11,Sebastien MOLES,63
-Midi-Pyrynnes,Lot,46,3,12,Damien KRIF,64
-Midi-Pyrynnes,Tarn-et-Garonne,82,3,12,Damien KRIF,65
-Midi-PyrGnres,Tarn,81,3,12,Damien KRIF,66
-Nord-Pas-de-Calais,Nord,59,1,3,BenoÃ®t CURY,67
-Nord-Pas-de-Calais,Pas-de-Calais,62,1,3,BenoÃ®t CURY,68
-Pays de la Loire,Loire-Atlantique,44,1,2,Thierry BOULANGER,69
-Pays de la Loire,Maine-et-Loire,49,1,2,Thierry BOULANGER,70
-Pays de la Loire,Mayenne,53,1,1,Bruno CHARLES,71
-Pays de la Loire,Sarthe,72,1,2,Thierry BOULANGER,72
-Pays de la Loire,Vend e,85,1,2,Thierry BOULANGER,73
-Picardie,Aisne,2,1,3,BenoÃ®t CURY,74
-Picardie,Oise,60,1,3,BenoÃ®t CURY,75
-Picardie,Somme,80,1,3,BenoÃ®t CURY,76
-Poitou-Charentes,Charente-Maritime,17,1,2,Thierry BOULANGER,77
-Poitou-Charentes,Charente,16,3,10,Romuald NEDAUD,78
-Poitou-Charentes,Deux-S-vres,79,1,2,Thierry BOULANGER,79
-Poitou-Charentes,Vienne,86,1,2,Thierry BOULANGER,80
-Provence-Alpes-C,Alpes-de-Haute-Provence,4,4,8,Nicolas OTIN,81
-Provence-Alpes-Crte d'Azur,Alpes-Maritimes,6,4,8,Nicolas OTIN,82
-Provence-Alpes-Crte d'Azur,Bouches-du-Rhsne,13,4,8,Nicolas OTIN,83
-Provence-Alpes-C,Hautes-Alpes,5,4,8,Nicolas OTIN,84
-Provence-Alpes-C,Var,83,4,8,Nicolas OTIN,85
-Provence-Alpes-C,Vaucluse,84,4,8,Nicolas OTIN,86
-Rh,Ain,1,2,7,JÃ©rÃ´me GOTHON,87
-Rh,Ardnche,7,4,8,Nicolas OTIN,88
-Rh,Dr,26,4,8,Nicolas OTIN,89
-Rh,Haute-Savoie,74,4,8,Nicolas OTIN,90
-Rh,Is,38,4,8,Nicolas OTIN,91
-Rh,Loire,42,2,7,JÃ©rÃ´me GOTHON,92
-Rh,Rh,69,2,7,JÃ©rÃ´me GOTHON,93
-Rh,Savoie,73,4,8,Nicolas OTIN,94
-Poitou-Charentes,Charente,16,1,2,Thierry BOULANGER,95
-Poitou-Charentes,Charente-Maritime,17,3,10,Romuald NEDAUD,96
-Rh,Loire,42,4,8,Nicolas OTIN,97
-Aquitaine,Gironde,33,3,11,Sebastien MOLES,98
-Midi-Pyr,Haute-Garonne,31,3,11,Sebastien MOLES,99
-Midi-Pyr,Ariige,9,3,11,Sebastien MOLES,100
+name_1,name_2,cca_2,type,type_2,com_type,value,com_type_no,id
+Basse-Normandie,Calvados,14,1,1,Bruno CHARLES,06.68.23.62.66 (8034),"Nav Mans 1 : Romain CARRIER 07.89.88.47.56
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",15
+Basse-Normandie,Manche,50,1,1,Bruno CHARLES,06.68.23.62.66 (8034),"Nav Mans 1 : Romain CARRIER 07.89.88.47.56
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",16
+Basse-Normandie,Orne,61,1,1,Bruno CHARLES,06.68.23.62.66 (8034),"Nav Mans 1 : Romain CARRIER 07.89.88.47.56
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",23
+Bretagne,Côtes-d'Armor,22,1,1,Bruno CHARLES,06.68.23.62.66 (8034),"Nav Mans 1 : Romain CARRIER 07.89.88.47.56
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",27
+Bretagne,Finistère,29,1,1,Bruno CHARLES,06.68.23.62.66 (8034),"Nav Mans 1 : Romain CARRIER 07.89.88.47.56
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",28
+Bretagne,Ille-et-Vilaine,35,1,1,Bruno CHARLES,06.68.23.62.66 (8034),"Nav Mans 1 : Romain CARRIER 07.89.88.47.56
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",29
+Haute-Normandie,Eure,27,1,1,Bruno CHARLES,06.68.23.62.66 (8034),"Nav Mans 1 : Romain CARRIER 07.89.88.47.56
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",47
+Haute-Normandie,Seine-Maritime,76,1,1,Bruno CHARLES,06.68.23.62.66 (8034),"Nav Mans 1 : Romain CARRIER 07.89.88.47.56
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",48
+Pays de la Loire,Mayenne,53,1,1,Bruno CHARLES,06.68.23.62.66 (8034),"Nav Mans 1 : Romain CARRIER 07.89.88.47.56
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",71
+Ile-de-France,Yvelines,78,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",14
+Bretagne,Morbihan,56,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",30
+Centre,Indre-et-Loire,37,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",32
+Centre,Eure-et-Loir,28,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",33
+Centre,Loir-et-Cher,41,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",36
+Pays de la Loire,Loire-Atlantique,44,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",69
+Pays de la Loire,Maine-et-Loire,49,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",70
+Pays de la Loire,Sarthe,72,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",72
+Pays de la Loire,Vendée,85,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",73
+Poitou-Charentes,Charente-Maritime,17,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",77
+Poitou-Charentes,Deux-Sèvres,79,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",79
+Poitou-Charentes,Vienne,86,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",80
+Poitou-Charentes,Charente,16,1,2,Thierry BOULANGER,06.68.23.63.52 (8667),"Nav Mans 3 : Romuald LEBEL 06.42.11.11.94
+Nav Mans 4 : Philippe EVEILLEAU 06.68.23.62.29",95
+Ile-de-France,Hauts-de-Seine,92,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,3
+Ile-de-France,Paris,75,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,4
+Ile-de-France,Val-d'Oise,95,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,10
+Ile-de-France,Val-de-Marne,94,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,12
+Ile-de-France,Essonne,91,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,20
+Ile-de-France,Seine-et-Marne,77,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,21
+Ile-de-France,Seine-Saint-Denis,93,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,22
+Champagne-Ardenne,Aube,10,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,35
+Champagne-Ardenne,Ardennes,8,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,40
+Champagne-Ardenne,Marne,51,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,42
+Lorraine,Meuse,55,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,56
+Nord-Pas-de-Calais,Nord,59,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,67
+Nord-Pas-de-Calais,Pas-de-Calais,62,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,68
+Picardie,Aisne,2,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,74
+Picardie,Oise,60,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,75
+Picardie,Somme,80,1,3,Benoit CURY,06.68.23.63.20 (8668),Nav Mans 2 : Fabrice LE MANACH 06.81.76.52.98 ,76
+Alsace,Bas-Rhin,67,2,4,Cedric PECHEUR,06.68.23.62.55 (8020),Nav Alsace 1 : Michaël GRISSMER 06.86.16.93.60,1
+Alsace,Haut-Rhin,68,2,4,Cedric PECHEUR,06.68.23.62.55 (8020),Nav Alsace 1 : Michaël GRISSMER 06.86.16.93.60,2
+Champagne-Ardenne,Haute-Marne,52,2,4,Cedric PECHEUR,06.68.23.62.55 (8020),Nav Alsace 1 : Michaël GRISSMER 06.86.16.93.60,41
+Lorraine,Meurthe-et-Moselle,54,2,4,Cedric PECHEUR,06.68.23.62.55 (8020),Nav Alsace 1 : Michaël GRISSMER 06.86.16.93.60,55
+Lorraine,Moselle,57,2,4,Cedric PECHEUR,06.68.23.62.55 (8020),Nav Alsace 1 : Michaël GRISSMER 06.86.16.93.60,57
+Lorraine,Vosges,88,2,4,Cedric PECHEUR,06.68.23.62.55 (8020),Nav Alsace 1 : Michaël GRISSMER 06.86.16.93.60,58
+Bourgogne,Cote-d'Or,21,2,5,Sebastien BOSSU,06.68.23.63.16 (8161),Nav Forez 3 : David DESCHAMPS 06.68.23.64.68,24
+Franche-Comté,Doubs,25,2,5,Sebastien BOSSU,06.68.23.63.16 (8161),Nav Forez 3 : David DESCHAMPS 06.68.23.64.68,43
+Franche-Comté,Haute-Saône,70,2,5,Sebastien BOSSU,06.68.23.63.16 (8161),Nav Forez 3 : David DESCHAMPS 06.68.23.64.68,44
+Franche-Comté,Jura,39,2,5,Sebastien BOSSU,06.68.23.63.16 (8161),Nav Forez 3 : David DESCHAMPS 06.68.23.64.68,45
+Franche-Comté,Territoire de Belfort,90,2,5,Sebastien BOSSU,06.68.23.63.16 (8161),Nav Forez 3 : David DESCHAMPS 06.68.23.64.68,46
+Auvergne,Allier,3,2,6,Brice SAINT REQUIER,06.82.64.85.74 (8003),Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62,11
+Bourgogne,Nièvre,58,2,6,Brice SAINT REQUIER,06.82.64.85.74 (8003),Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62,18
+Bourgogne,Yonne,89,2,6,Brice SAINT REQUIER,06.82.64.85.74 (8003),Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62,26
+Centre,Cher,18,2,6,Brice SAINT REQUIER,06.82.64.85.74 (8003),Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62,31
+Centre,Indre,36,2,6,Brice SAINT REQUIER,06.82.64.85.74 (8003),Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62,34
+Centre,Loiret,45,2,6,Brice SAINT REQUIER,06.82.64.85.74 (8003),Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62,39
+Bourgogne,Saône-et-Loire,71,2,7,Jerome GOTHON,06.68.23.65.27 (8046),"Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62
+Nav Forez 4 : Laurent VERNAY 06.68.23.62.47",25
+Rhône-Alpes,Ain,1,2,7,Jerome GOTHON,06.68.23.65.27 (8046),"Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62
+Nav Forez 4 : Laurent VERNAY 06.68.23.62.47",87
+Rhône-Alpes,Loire,42,2,7,Jerome GOTHON,06.68.23.65.27 (8046),"Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62
+Nav Forez 4 : Laurent VERNAY 06.68.23.62.47",92
+Rhône-Alpes,Rhône,69,2,7,Jerome GOTHON,06.68.23.65.27 (8046),"Nav Forez 2 : Sébastien LEFEBVRE 06.68.23.62.62
+Nav Forez 4 : Laurent VERNAY 06.68.23.62.47",93
+Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence,4,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,81
+Provence-Alpes-Côte d'Azur,Alpes-Maritimes,6,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,82
+Provence-Alpes-Côte d'Azur,Bouches-du-Rhsne,13,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,83
+Provence-Alpes-Côte d'Azur,Hautes-Alpes,5,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,84
+Provence-Alpes-Côte d'Azur,Var,83,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,85
+Provence-Alpes-Côte d'Azur,Vaucluse,84,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,86
+Rhône-Alpes,Ardèche,7,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,88
+Rhône-Alpes,Drôme,26,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,89
+Rhône-Alpes,Haute-Savoie,74,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,90
+Rhône-Alpes,Isère,38,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,91
+Rhône-Alpes,Savoie,73,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,94
+Rhône-Alpes,Loire,42,4,8,Nicolas OTIN,06.68.23.62.46 (8193),Nav Forez 4 : Laurent VERNAY 06.68.23.62.47,97
+Auvergne,Haute-Loire,43,3,9,Antoine DA COSTA,06.68.23.62.88 (8238),Nav Forez 1 :  Xavier BEC 06.70.81.97.25 (8715),17
+Auvergne,Puy-de-Dôme,63,3,9,Antoine DA COSTA,06.68.23.62.88 (8238),Nav Forez 1 :  Xavier BEC 06.70.81.97.25 (8715),19
+Limousin,Corrèze,19,3,9,Antoine DA COSTA,06.68.23.62.88 (8238),Nav Forez 1 :  Xavier BEC 06.70.81.97.25 (8715),52
+Limousin,Creuse,23,3,9,Antoine DA COSTA,06.68.23.62.88 (8238),Nav Forez 1 :  Xavier BEC 06.70.81.97.25 (8715),53
+Aquitaine,Dordogne,24,3,10,Romuald NEDAUD,06.68.23.64.79 (8065),"Nav Tonn 1 : Jean François Bardet 06.47.42.06.12 (8075)
+Nav Tonn 2 : Fabien SAILHAN 06.86.37.75.42 
+Nav Tonn 4 : David LUC 07.72.29.39.63",5
+Aquitaine,Gironde,33,3,10,Romuald NEDAUD,06.68.23.64.79 (8065),"Nav Tonn 1 : Jean François Bardet 06.47.42.06.12 (8075)
+Nav Tonn 2 : Fabien SAILHAN 06.86.37.75.42 
+Nav Tonn 4 : David LUC 07.72.29.39.63",6
+Limousin,Haute-Vienne,87,3,10,Romuald NEDAUD,06.68.23.64.79 (8065),"Nav Tonn 1 : Jean François Bardet 06.47.42.06.12 (8075)
+Nav Tonn 2 : Fabien SAILHAN 06.86.37.75.42 
+Nav Tonn 4 : David LUC 07.72.29.39.63",54
+Poitou-Charentes,Charente,16,3,10,Romuald NEDAUD,06.68.23.64.79 (8065),"Nav Tonn 1 : Jean François Bardet 06.47.42.06.12 (8075)
+Nav Tonn 2 : Fabien SAILHAN 06.86.37.75.42 
+Nav Tonn 4 : David LUC 07.72.29.39.63",78
+Poitou-Charentes,Charente-Maritime,17,3,10,Romuald NEDAUD,06.68.23.64.79 (8065),"Nav Tonn 1 : Jean François Bardet 06.47.42.06.12 (8075)
+Nav Tonn 2 : Fabien SAILHAN 06.86.37.75.42 
+Nav Tonn 4 : David LUC 07.72.29.39.63",96
+Aquitaine,Landes,40,3,11,Sebastien MOLES,06.68.23.62.64 (8036),"Nav Tonn 1 : David LUC 06.47.42.06.12 (8075)
+Remplacé par Jean François Coulot
+Nav Tonn 4 : David LUC 07.72.29.39.63",7
+Aquitaine,Lot-et-Garonne,47,3,11,Sebastien MOLES,06.68.23.62.64 (8036),"Nav Tonn 1 : David LUC 06.47.42.06.12 (8075)
+Remplacé par Jean François Coulot
+Nav Tonn 4 : David LUC 07.72.29.39.63",8
+Aquitaine,Pyrénées-Atlantiques,64,3,11,Sebastien MOLES,06.68.23.62.64 (8036),"Nav Tonn 1 : David LUC 06.47.42.06.12 (8075)
+Remplacé par Jean François Coulot
+Nav Tonn 4 : David LUC 07.72.29.39.63",9
+Midi-Pyrénées,Gers,32,3,11,Sebastien MOLES,06.68.23.62.64 (8036),"Nav Tonn 1 : David LUC 06.47.42.06.12 (8075)
+Remplacé par Jean François Coulot
+Nav Tonn 4 : David LUC 07.72.29.39.63",61
+Midi-Pyrénées,Hautes-Pyrénées,65,3,11,Sebastien MOLES,06.68.23.62.64 (8036),"Nav Tonn 1 : David LUC 06.47.42.06.12 (8075)
+Remplacé par Jean François Coulot
+Nav Tonn 4 : David LUC 07.72.29.39.63",63
+Aquitaine,Gironde,33,3,11,Sebastien MOLES,06.68.23.62.64 (8036),"Nav Tonn 1 : David LUC 06.47.42.06.12 (8075)
+Remplacé par Jean François Coulot
+Nav Tonn 4 : David LUC 07.72.29.39.63",98
+Midi-Pyrénées,Haute-Garonne,31,3,11,Sebastien MOLES,06.68.23.62.64 (8036),"Nav Tonn 1 : David LUC 06.47.42.06.12 (8075)
+Remplacé par Jean François Coulot
+Nav Tonn 4 : David LUC 07.72.29.39.63",99
+Midi-Pyrénées,Ariège,9,3,11,Sebastien MOLES,06.68.23.62.64 (8036),"Nav Tonn 1 : David LUC 06.47.42.06.12 (8075)
+Remplacé par Jean François Coulot
+Nav Tonn 4 : David LUC 07.72.29.39.63",100
+Auvergne,Cantal,15,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,13
+Languedoc-Roussillon,Lozère,48,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,37
+Languedoc-Roussillon,Pyrénées-Orientales,66,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,38
+Languedoc-Roussillon,Aude,11,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,49
+Languedoc-Roussillon,Gard,30,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,50
+Languedoc-Roussillon,Hérault,34,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,51
+Midi-Pyrénées,Ariège,9,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,59
+Midi-Pyrénées,Aveyron,12,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,60
+Midi-Pyrénées,Haute-Garonne,31,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,62
+Midi-Pyrénées,Lot,46,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,64
+Midi-Pyrénées,Tarn-et-Garonne,82,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,65
+Midi-Pyrénées,Tarn,81,3,12,Damien KRIF,06.68.23.62.90 (8704),Nav Tonn 3 : Jean François Coulot 06.32.20.81.87,66

@@ -15,11 +15,12 @@ var aoiLayer = L.geoJSON(outline, {
 
 
 var map = L.map('map', {
-    maxBounds: aoiLayer.getBounds(),
-    maxBoundsViscosity: 1.0,
+    // maxBounds: aoiLayer.getBounds(),
+    // maxBoundsViscosity: 1.0,
     layers: [basemapCarto]
 });
-map.options.minZoom = 4;
+map.options.minZoom = 5;
+map.options.maxZoom = 8;
 map.fitBounds(aoiLayer.getBounds());
 L.Control.geocoder().addTo(map);
 
@@ -47,6 +48,8 @@ fetchText(csvUrl).then(text => {
         com_fr.features[i].properties["type"] = adata[0].type;
         com_fr.features[i].properties["type_2"] = adata[0].type_2;
         com_fr.features[i].properties["com_type"] = adata[0].com_type;
+        com_fr.features[i].properties["value"] = adata[0].value;
+        com_fr.features[i].properties["com_type_no"] = adata[0].com_type_no;
     }
 
     comFr = L.geoJSON(com_fr, {
@@ -62,12 +65,27 @@ fetchText(csvUrl).then(text => {
     overlays['Carte commerciale scierie France'] = comFr;
     var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
 
+    var controlSearch = new L.Control.Search({
+        // position:'topright',	
+        layer: comFr,
+        initial: false,
+        zoom: 12,
+        // marker: true,
+        collapsed: true,
+        textPlaceholder: 'Search for a Department',
+        propertyName: 'name_2' ,
+        hideMarkerOnCollapse: true,
+    });
+    
+    map.addControl( controlSearch );
 
 });
 
 L.easyButton('fa-home fa-lg', function () {
     map.fitBounds(aoiLayer.getBounds());
 }).addTo(map);
+
+
 
 // let getLegendString = function(){
 //     let labels = [];
@@ -91,7 +109,7 @@ var legend = L.control({position: 'bottomright'});
 		for (var i = 0; i < legendValue.length; i++) {
 
 			labels.push(
-				'<i style="background:' + getFillColor(legendValue[i]) + '"></i> ' + legendValue[i]);
+				'<i style="background:' + getFillColor(legendValue[i]) + '"></i> <b>' + legendValue[i] + '</b> ' + legendValue2[i]);
 		}
 
 		div.innerHTML = labels.join('<br>');
